@@ -2,7 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Gomes!;I'm+38+years+old;I'm+from+Brazil;and+I'm+study+Data+Science+at+Univesp;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### Main skills: 
+
+
+
+Olá, eu sou **Bruno Gomes!** 👋
+
+🧑‍💻 Estudante de Ciência de Dados, apaixonado por tecnologia, marketing, dadoes e inovação!
+
+🔍 Curioso por natureza, estou sempre explorando novas linguagens de programação e frameworks.
+
+
+
+____________________________________________________________________________
+### 🌟Principais Habilidades: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&logolabelColor=white)&nbsp;
 ![R](https://img.shields.io/badge/RStudio-3776AB?style=for-the-badge&logo=R&logoColor=white)&nbsp;
@@ -11,23 +23,7 @@
 
 
 
-Olá, eu sou o [Bruno Gomes]! 👋
-
-🧑‍💻 Estudante de Ciência de Dados, apaixonado por tecnologia, marketing, dadoes e inovação!
-
-🔍 Curioso por natureza, estou sempre explorando novas linguagens de programação e frameworks.
-
-
-
-### **🌟 Habilidades:**
-
-Linguagens: Python, SQL, R
-
-
-**Ferramentas:** Git, AWS
-
-
-
+____________________________________________________________________________
 ### **🎓 Formação Acadêmica:**
 
 🔹Estudante de Bacharelado em Ciência de Dados pela Univesp (3º Semestre);
@@ -40,7 +36,7 @@ Linguagens: Python, SQL, R
 
 
 
-
+____________________________________________________________________________
 ### **💼 Experiência Profissional:**
 
 🔹Analista de Marketing de dados na SODEXO;
@@ -50,7 +46,7 @@ Linguagens: Python, SQL, R
 🔹Analista de Inteligência de Mercado na SONDA IT.
 
 
-
+____________________________________________________________________________
 ### **🌱 O que estou aprendendo atualmente:**
 
 🔹SQL;
@@ -62,15 +58,17 @@ Linguagens: Python, SQL, R
 🔹Python.
 
 
-
-### **📫 Como me encontrar:**
+____________________________________________________________________________
+### **📫 Como me Encontrar:**
 
 LinkedIn: www.linkedin.com/in/bruno-gomes-ciencia-dados-marketing
 
 E-mail: 24202925@aluno.univesp.br
 
+WhatsApp: +55 (11) 94871-1597
 
 
+____________________________________________________________________________
 ### **🚀 Projetos em Destaque:**
 
 Projeto 1: Em breve! ;)
@@ -78,6 +76,7 @@ Projeto 1: Em breve! ;)
 Projeto 2: Em breve! ;)
 
 
-
+____________________________________________________________________________
 ### 📈 Estatísticas GitHub:
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunogomesmkt)](https://github.com/anuraghazra/github-readme-stats)
