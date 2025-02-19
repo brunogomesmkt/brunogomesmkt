@@ -7,7 +7,7 @@
 
 Olá, eu sou **Bruno Gomes!** 👋
 
-🧑‍💻 Estudante de Ciência de Dados, apaixonado por tecnologia, marketing, dadoes e inovação!
+🧑‍💻 Estudante de Ciência de Dados, apaixonado por tecnologia, marketing, dados e inovação!
 
 🔍 Curioso por natureza, estou sempre explorando novas linguagens de programação e frameworks.
 
