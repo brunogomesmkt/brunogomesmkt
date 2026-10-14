@@ -19,7 +19,7 @@ ____________________________________________________________________________
 ![GIT](https://img.shields.io/badge/GIT-3776AB?style=for-the-badge&logo=GIT&logoColor=white)&nbsp;
 ![HMTL](https://img.shields.io/badge/html-3776AB?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=CSS&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=000);
+![JavaScript](https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
 ____________________________________________________________________________
 ### **🎓 Formação Acadêmica:**
