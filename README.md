@@ -12,7 +12,7 @@ Olá, eu sou **Bruno Gomes!** 👋
 ____________________________________________________________________________
 ### 🌟Principais Habilidades: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&logolabelColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=SQL&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/RStudio-3776AB?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 ![POWER BI](https://img.shields.io/badge/PowerBI-3776AB?style=for-the-badge&logo=Power+BI&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/GIT-3776AB?style=for-the-badge&logo=GIT&logoColor=white)&nbsp;
