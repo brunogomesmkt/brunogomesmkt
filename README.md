@@ -25,9 +25,13 @@ ____________________________________________________________________________
 ### **🎓 Formação Acadêmica:**
 
 🔹Estudante de Bacharelado em Tecnologia da Informação na Univesp (5º Semestre, com conclusão em 8/2027);
+
 🔹Estudante de Técnico em Desenvolvimento de Sistemas na Escola Técinca FAT (10/2026 a 4/2028);
+
 🔹MBA em Data Science e Analytics pela USP Esalq (2022);
+
 🔹MBA em Marketing Digital pela Faculdade Impacta Tecnologia (2019);
+
 🔹Formado em Marketing pela Centro Universitário Sumaré (2017).
 
 ____________________________________________________________________________
