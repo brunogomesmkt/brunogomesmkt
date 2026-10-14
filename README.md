@@ -10,7 +10,8 @@ Olá, eu sou **Bruno Gomes!** 👋
 🔍 Curioso por natureza, estou sempre explorando novas linguagens de programação e frameworks.
 
 ____________________________________________________________________________
-### 🌟Principais Habilidades: 
+### 🌟Principais Habilidades:
+![IA](https://img.shields.io/badge/IA-3776AB?style=for-the-badge&logo=IA&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=SQL&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/RStudio-3776AB?style=for-the-badge&logo=R&logoColor=white)&nbsp;
