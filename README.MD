@@ -15,7 +15,6 @@ ____________________________________________________________________________
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=SQL&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/RStudio-3776AB?style=for-the-badge&logo=R&logoColor=white)&nbsp;
-![POWER BI](https://img.shields.io/badge/PowerBI-3776AB?style=for-the-badge&logo=Power+BI&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/GIT-3776AB?style=for-the-badge&logo=GIT&logoColor=white)&nbsp;
 ![HMTL](https://img.shields.io/badge/html-3776AB?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=CSS&logoColor=white)&nbsp;
